@@ -1,2 +1,3 @@
 # ML_homework
-this's homework for ML project 
+It's a first staps to learn Data sience on python stack 
+
